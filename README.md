@@ -10,8 +10,14 @@ I'm Daniel Cunha, a Software Engineering trying getter better every single day!
 
 contato@dvlc.com.br | danielsoro@gmail.com | danielsoro@apache.org
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielsoro&layout=compact&theme=nightowl)](#)
-[![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=danielsoro&theme=nightowl&show_icons=true&include_all_commits=true&count_private=true&hide=stars,issues)](#)
+
+## Coding Activity
+
+<div>
+  <a href="https://github.com/danielsoro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielsoro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsoro&layout=compact&langs_count=16&theme=dracula"/>
+<div>
 <!--
 **danielsoro/danielsoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
