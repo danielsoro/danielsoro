@@ -8,7 +8,7 @@ I'm Daniel Cunha, a Software Engineering trying getter better every single day!
 -  📫 How to reach me: [LinkendIn](https://www.linkedin.com/in/danielvlcunha/) | [Twitter](http://www.twitter.com/danielvlcunha)
 
 
-me@dvlc.com.br | danielsoro@gmail.com | danielsoro@apache.org
+me@dvlc.com.br
 
 
 ## Coding Activity
