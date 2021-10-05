@@ -1,14 +1,12 @@
 ### Hey there! 👋
-I'm Daniel Cunha, a Software Engineering trying getter better every single day!
+I'm Daniel Cunha (me@dvlc.com.br), a Software Engineering trying getter better every single day!
 
 
 ![](https://komarev.com/ghpvc/?username=danielsoro&color=blueviolet)
+[![Twitter Badge](https://img.shields.io/badge/-@danielvlcunha-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/pragmaticivan)](https://twitter.com/danielvlcunha)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielvlcunha/)](https://www.linkedin.com/in/danielvlcunha/)
 
 - 🌱 I’m currently learning [Elixir](https://elixir-lang.org/) [@elixir-lang](https://www.github.com/elixir-lang)
--  📫 How to reach me: [LinkendIn](https://www.linkedin.com/in/danielvlcunha/) | [Twitter](http://www.twitter.com/danielvlcunha)
-
-
-me@dvlc.com.br
 
 
 ## Coding Activity
