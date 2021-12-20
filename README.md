@@ -1,5 +1,5 @@
 ### Hey there! 👋
-I'm Daniel Cunha (me@dvlc.com.br), a Software Engineering trying getter better every single day!
+I'm Daniel Cunha (danielsoro@gmail.com), a Software Engineering trying getter better every single day!
 
 
 ![](https://komarev.com/ghpvc/?username=danielsoro&color=blueviolet)
