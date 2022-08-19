@@ -9,6 +9,7 @@ I'm Daniel Cunha (danielsoro@gmail.com), a Software Engineering trying getter be
 🌱 I’m currently learning: 
 * [Elixir](https://elixir-lang.org/) [@elixir-lang](https://www.github.com/elixir-lang)
 * [Kotlin](https://kotlinlang.org/) [@JetBrains/kotlin](https://github.com/JetBrains/kotlin)
+* [NestJS](https://nestjs.com/) [@nestjs/nest](https://github.com/nestjs/nest)
 
 
 ## Coding Activity
