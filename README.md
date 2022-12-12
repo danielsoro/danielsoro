@@ -7,7 +7,6 @@ I'm Daniel Cunha (danielsoro@gmail.com), a Software Engineering trying getter be
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielvlcunha/)](https://www.linkedin.com/in/danielvlcunha/)
 
 🌱 I’m currently learning: 
-* [Elixir](https://elixir-lang.org/) [@elixir-lang](https://www.github.com/elixir-lang)
 * [Kotlin](https://kotlinlang.org/) [@JetBrains/kotlin](https://github.com/JetBrains/kotlin)
 * [NestJS](https://nestjs.com/) [@nestjs/nest](https://github.com/nestjs/nest)
 
