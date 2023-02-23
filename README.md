@@ -6,9 +6,9 @@ I'm Daniel Cunha (danielsoro@gmail.com), a Software Engineering trying getter be
 [![Twitter Badge](https://img.shields.io/badge/-@danielvlcunha-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/pragmaticivan)](https://twitter.com/danielvlcunha)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielvlcunha/)](https://www.linkedin.com/in/danielvlcunha/)
 
-🌱 I’m currently learning: 
-* [Kotlin](https://kotlinlang.org/) [@JetBrains/kotlin](https://github.com/JetBrains/kotlin)
-* [NestJS](https://nestjs.com/) [@nestjs/nest](https://github.com/nestjs/nest)
+#🌱 I’m currently learning: 
+#* [Kotlin](https://kotlinlang.org/) [@JetBrains/kotlin](https://github.com/JetBrains/kotlin)
+#* [NestJS](https://nestjs.com/) [@nestjs/nest](https://github.com/nestjs/nest)
 
 
 ## Coding Activity
